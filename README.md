@@ -1,6 +1,6 @@
 Hello! I am a postdoc at [IHES](www.ihes.fr) working on Algebraic Geometry and keenly interested in the formalization of mathematics. 
 
-To know more about what I do, have a look at my [webpage](www.ihes.fr/~kvshud). Also if you are in the Paris area and these topics interest you, feel free to drop me an email and I will be happy to discuss!
+To know more about what I do, have a look at my [webpage](www.ihes.fr/kvshud). Also if you are in the Paris area and these topics interest you, feel free to drop me an email and I will be happy to discuss!
      
 
 <!-- Hi there-->
